@@ -1,9 +1,7 @@
 ## Summary
 Basic project for learning purposes.
 
-Will be adding new stuff, trying out things and see how everything works out.
-
-For now: One application with a view returning a "Hello World!" string.
+For now: Just the most basic API to return a 'Hello World!'.
 
 ## How to run:
 For requisites refer to official documentation:
