@@ -1,13 +1,17 @@
 ## Summary
 Basic project for learning purposes.
 
-For now: Just the most basic API to return a 'Hello World!'.
+For now:
+A basic NestJS application, using typescript with some features.
+ - A route to return a 'Hello World!' using GraphQL.
+ - A route to return a 'Hello World!' using gRPC.
 
 ## How to run:
 For requisites refer to official documentation:
 [NestJS](https://docs.nestjs.com/)
 [GraphQL](https://graphql.org/learn/)
 [Apollo GraphQL](https://www.apollographql.com/docs/)
+[gRPC](https://grpc.io/docs/) 
 
 
 Run on a terminal:
