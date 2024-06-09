@@ -2,7 +2,7 @@
 Basic project for learning purposes.
 
 For now:
-A basic NestJS application, using typescript with some features.
+A basic NestJS application with typescript. Including the following:
  - A route to return a 'Hello World!' using GraphQL.
  - A route to return a 'Hello World!' using gRPC.
 
